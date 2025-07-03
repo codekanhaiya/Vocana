@@ -1,0 +1,36 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.env
+*.DS_Store
+venv/
+.env
+
+# Model files
+aiml/models/
+aiml/venv
+
+# Node
+frontend/node_modules/
+
+
+# OS/Editor
+.vscode/
+.idea/
+*.log
+
+# React
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Coverage & test
+coverage/
+*.cover
+*.py,cover
+
+# Misc
+*.bak

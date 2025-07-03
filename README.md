@@ -1,6 +1,6 @@
-# 🌐 VOCANA - Multi-Language Translation App
+# 🌐 Vocana - Multi-Language Translation App
 
-**VOCANA** is a full-stack AI-powered application that translates text between 60+ languages using Facebook's M2M100 model. Built with **FastAPI** for the backend and **React** for the frontend, VOCANA provides a fast, efficient, and intuitive platform for real-time translation.
+**Vocana** is a full-stack AI-powered application that translates text between 60+ languages using Facebook's M2M100 model. Built with **FastAPI** for the backend and **React** for the frontend, VOCANA provides a fast, efficient, and intuitive platform for real-time translation.
 
 ---
 
@@ -153,6 +153,7 @@ GET http://localhost:8000/languages
 ## 📞 Contact & Credits
  
 Developed by **Kanhaiya Gupta** 
+
 [![Website Badge](https://img.shields.io/badge/Visit-Portfolio-blue)](http://officialkanha.epizy.com/)
 
 Model: *facebook/m2m100_418M*
